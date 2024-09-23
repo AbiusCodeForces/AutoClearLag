@@ -1,0 +1,5 @@
+name: AM_AutoClearLag
+api: 5.0.0
+version: 1.0.0
+main: Abius\ClearLag\Loader
+author: AbiusMatrix

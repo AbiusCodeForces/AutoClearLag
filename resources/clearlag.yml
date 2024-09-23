@@ -1,0 +1,7 @@
+time: 600 #seconds
+
+type_alert: "message" #type: popup, message
+
+alert_clearlag_running: "[ClearLag] The Server is about to clean up the garbage in {time} second"
+
+alert_clearlag_sucessful: "[ClearLag] The server has removed {count} objects in all world"
